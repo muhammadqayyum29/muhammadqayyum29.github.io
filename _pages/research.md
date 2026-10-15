@@ -21,7 +21,7 @@ author_profile: true
     
 7. **Qayyum, M.**, Li, S., Jian, G., & Yu, Y. (2023). [Evaluating the impacts of imported cultural goods on carbon emission: Cross-country evidence. ](https://doi.org/10.1177/0958305X231192358). *Energy & Environment*.
     
-8. **Qayyum, M.***, Yu, Y., Bhatti, U. A., & Li, S. (2023). [Evaluation of the One Belt and One Road (OBOR) in economic development and suggestions analysis based on SWOT analysis with weighted AHP and entropy methods. ](https://doi.org/10.1007/s11042-022-13565-w). *Multimedia Tools and Applications*, 82, 14985–15006.
+8. **Qayyum, M.** *, Yu, Y., Bhatti, U. A., & Li, S. (2023). [Evaluation of the One Belt and One Road (OBOR) in economic development and suggestions analysis based on SWOT analysis with weighted AHP and entropy methods. ](https://doi.org/10.1007/s11042-022-13565-w). *Multimedia Tools and Applications*, 82, 14985–15006.
     
 9. **Qayyum, M.**, Yu, Y., Tu, T., Nizamani, M. M., Ahmad, A., & Ali, M. (2022). [Relationship between economic liberalization and intellectual property protection with regional innovation in China: A case study of Chinese provinces. ](https://doi.org/10.1371/journal.pone.0259170). *PLoS ONE*, 17(1), e0259170.
     
