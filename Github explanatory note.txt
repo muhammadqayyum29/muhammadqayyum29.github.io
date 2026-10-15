@@ -1,0 +1,14 @@
+To start: open the sample repository and name it as username.github.io after username.
+
+_config.yml: modify basic information displayed on Home page
+
+change headshot: upload your headshot file in PNG format to folder "images" and name it as "headshot.png"
+
+change home page background information: go to "_pages > about.md"
+
+change RESEARCH information: go to "_pages > research.md"
+
+upload cv: upload cv to "files < C_Muhammad_Qayyum_CV_US_Academic.pdf". CV file name appears in: "_pages > cv.md" and "_pages > about.md"
+
+
+change TEACHING:  "_pages > teaching.md"
