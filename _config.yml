@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yuyuan Yu"  #Your Name / Site Title on the Top
+title                    : "Muhammad Qayyum"  #Your Name / Site Title on the Top
 title_separator          : "-"
-name                     : &name "Yuyuan Yu"
-description              : &description "Yuyuan Yu | PhD Candidate in Economics at City University of Hong Kong"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Muhammad Qayyum"
+description              : &description "Muhammad Qayyum | Associate Professor in Economics at Quanzhou University of Information Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://muhammadqayyum29.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "muhammadqayyum29/muhammadqayyum29.github.io"
 author:
   # Biographic information
   avatar           : "headshot.png"
-  name             : "Yuyuan Yu 余雨缘"  #Your Sidebar Name below profile picture
+  name             : "Muhammad Qayyum"  #Your Sidebar Name below profile picture
   # pronouns         : she/her # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Hong Kong, SAR China"
-  employer         : "City University of Hong Kong"
+  bio              : "Associate Professor"
+  location         : "Fujian, China"
+  employer         : "Quanzhou University of Information Engineering"
   uri              : # URL
-  email            : "yuyuan.3y@gmail.com" 
+  email            : "qayyum2494@gmail.com" 
 
   # Academic websites
   # Academia         : https://sites.google.com/view/yuyuyuan # URL
