@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download PDF](/files/2026_Job_CV_YUAN.pdf)
+[Download PDF](/files/C_Muhammad_Qayyum_CV_US_Academic.pdf)
 
 <iframe
-  src="/files/2026_Job_CV_YUAN.pdf"
+  src="/files/C_Muhammad_Qayyum_CV_US_Academic.pdf"
   width="100%"
   height="1100px"
   style="border: none;">
