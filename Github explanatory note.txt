@@ -12,3 +12,5 @@ upload cv: upload cv to "files < C_Muhammad_Qayyum_CV_US_Academic.pdf". CV file 
 
 
 change TEACHING:  "_pages > teaching.md"
+
+change page footnote: "_includes/footer.html"
