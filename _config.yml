@@ -13,10 +13,10 @@ title                    : "Yuyuan Yu"  #Your Name / Site Title on the Top
 title_separator          : "-"
 name                     : &name "Yuyuan Yu"
 description              : &description "Yuyuan Yu | PhD Candidate in Economics at City University of Hong Kong"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yuyuan1yu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://muhammadqayyum29.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuyuan1yu/yuyuan1yu.github.io"
+repository               : "muhammadqayyum29/muhammadqayyum29.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
