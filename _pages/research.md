@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 ## Publications
+**Bold** = author; \* = corresponding author. Indexing, JCR quartile and impact factor (IF) from Clarivate Journal Citation Reports 2026 release (2025 data).
 
 1. **Qayyum, M.**, Bashir, M. A., Ali, M., & Mehmood, U. (2026). [A path to carbon neutrality: Exploring the impact of natural resource use on CO2 emissions and load capacity factor in BICS. Advance online publication. ](https://doi.org/10.1177/0958305X261474724). *Energy & Environment*. Advance online publication.
    
 2. **Qayyum, M.**, Ali, M., Hassan, M. W., et al. (2026). [Harnessing machine learning to decode the energy–economy–environment trilemma: Insights from renewable and non-renewable energy use in Pakistan. Advance online publication. ](https://doi.org/10.1007/s10668-026-07985-z). *Environment, Development and Sustainability*. Advance online publication.
    
-3. Yu, Y., **Qayyum, M.***, & Li, S. (2024). [Trade dynamics of environmental goods within global energy economy and their impacts on green technological innovation: A complex network analysis. ](https://doi.org/10.1016/j.eneco.2024.107957). *Energy Economics*, 107957.
+3. Yu, Y., **Qayyum, M.**\*, & Li, S. (2024). [Trade dynamics of environmental goods within global energy economy and their impacts on green technological innovation: A complex network analysis. ](https://doi.org/10.1016/j.eneco.2024.107957). *Energy Economics*, 107957.
    
 4. **Qayyum, M.**, Zhang, Y., Ali, M., & Kirikkaleli, D. (2024). [Towards environmental sustainability: The role of information and communication technology and institutional quality on ecological footprint in MERCOSUR nations. ](https://doi.org/10.1016/j.eti.2023.103523). *Environmental Technology & Innovation*, 103523.
    
