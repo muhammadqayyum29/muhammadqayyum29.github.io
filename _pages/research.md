@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**[Research Statement](/files/Muhammad_Qayyum_Research_Statement.pdf)**
+**[Research Statement Download](/files/Muhammad_Qayyum_Research_Statement.pdf)**
 
 ## Publications
 
