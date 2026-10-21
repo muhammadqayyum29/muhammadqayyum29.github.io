@@ -14,8 +14,6 @@ I got my Ph.D in economics from [Zhongnan University of Economics and Law](https
 **Research interests**: Energy and environmental economics; machine learning in economics; digital economy; agricultural 
 economics; international trade; economic complexity.
 
-**[Research Statement](/files/Muhammad_Qayyum_Research_Statement.pdf)**
-
 **[CV Download](/files/C_Muhammad_Qayyum_CV_US_Academic.pdf)**
 
 **Email**: qayyum2494`at'gmail.com
