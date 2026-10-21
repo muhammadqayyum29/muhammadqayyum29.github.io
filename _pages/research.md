@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+**[Research Statement](/files/Muhammad_Qayyum_Research_Statement.pdf)**
+
 ## Publications
 
 1. **Qayyum, M.**, Bashir, M. A., Ali, M., & Mehmood, U. (2026). [A path to carbon neutrality: Exploring the impact of natural resource use on CO2 emissions and load capacity factor in BICS. Advance online publication](https://doi.org/10.1177/0958305X261474724). *Energy & Environment*. Advance online publication.
